@@ -13,18 +13,17 @@ Hi! I'm Angel, a canary student.
 > Football Fan ⚽❤️💙 
 
 > Traveler ✈️🌍
-
-  > Checklist ✅ [🇫🇷🇵🇹🇳🇱🇧🇪🇺🇸(FL)🇮🇹]
+  #####  ✅: 🇫🇷🇵🇹🇳🇱🇧🇪🇺🇸(FL)🇮🇹
 
 > Life goals 🎯
 
 <div align="center">
 
 >  <img src="https://th.bing.com/th/id/R.bf7dd5815d9d5f55e9651cfb645b1bfd?rik=zX%2fbSiLNnW7b0A&riu=http%3a%2f%2fcdn.carbuzz.com%2fgallery-images%2f1600%2f1012000%2f300%2f1012311.jpg&ehk=XQMwQ2pi4n7XjdtEjul1DTyULLGMKFLVdrhkkhY04KE%3d&risl=&pid=ImgRaw&r=0" width=30% height=30%>
+  ##### Be a Honda Civic owner
 
 > Keep traveling...✈️
-
-  > Must to stay in [🏴󠁧󠁢󠁥󠁮󠁧󠁿🇩🇪🇮🇸🇫🇮🇺🇸(NY, CA)🇪🇸]
+  ##### 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇩🇪🇮🇸🇫🇮🇺🇸(NY, CA)🇪🇸(BARCELONA),...
 
 </div>
 
