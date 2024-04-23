@@ -14,19 +14,31 @@ Hi! I'm Angel, a canary student.
 
 - Traveler ✈️🌍
   
-  - ✅: 🇫🇷🇵🇹🇳🇱🇧🇪🇺🇸(FL)🇮🇹
+  - ✅: 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸(FL) 🇮🇹
 
 - Life goals 🎯
 
 <div align="center">
 
--  <img src="https://th.bing.com/th/id/R.bf7dd5815d9d5f55e9651cfb645b1bfd?rik=zX%2fbSiLNnW7b0A&riu=http%3a%2f%2fcdn.carbuzz.com%2fgallery-images%2f1600%2f1012000%2f300%2f1012311.jpg&ehk=XQMwQ2pi4n7XjdtEjul1DTyULLGMKFLVdrhkkhY04KE%3d&risl=&pid=ImgRaw&r=0" width=30% height=30%>
-> Be a Honda Civic owner
-
-- Keep traveling...✈️
-> Must ro visit: 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇩🇪🇮🇸🇫🇮🇺🇸(NY, CA)🇪🇸(BARCELONA),...
+1. <img src="https://th.bing.com/th/id/R.bf7dd5815d9d5f55e9651cfb645b1bfd?rik=zX%2fbSiLNnW7b0A&riu=http%3a%2f%2fcdn.carbuzz.com%2fgallery-images%2f1600%2f1012000%2f300%2f1012311.jpg&ehk=XQMwQ2pi4n7XjdtEjul1DTyULLGMKFLVdrhkkhY04KE%3d&risl=&pid=ImgRaw&r=0" width=30% height=30%>
 
 </div>
+
+> Be a Honda Civic owner
+
+2. Keep traveling...✈️
+> Must ro visit: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇩🇪 🇮🇸 🇫🇮 🇺🇸(NY, CA) 🇪🇸(BARCELONA),...
+
+
+
+```
+                                  =          
+                                 =
+======      =      =       =   ======  =     =
+     =     = =     = =   = =   =    =  = =   =
+=    =    = = =    =   =   =   =    =  =   = =
+ ====    =     =   =       =   ======  =     = 
+```
 
 <!--
 **Angel170605/Angel170605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
