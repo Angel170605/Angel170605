@@ -8,7 +8,7 @@ Hi! I'm Angel, a canary student.
 
 - Web Applications Developement student at IES Puerto Cruz
 
-- Novel driver 🟩L🟩 <img src="https://drive.google.com/file/d/1OlIznekeeldqu6xEq6uBCsuHBr9OpOQu/view?usp=drivesdk" width="12px" height="20px">
+- Novel driver <img src="https://drive.google.com/file/d/1OlIznekeeldqu6xEq6uBCsuHBr9OpOQu/view?usp=drivesdk" width="12px" height="20px">
 
 - Football Fan ⚽❤️💙 
 
