@@ -8,7 +8,7 @@ Hi! I'm Angel, a canary student.
 
 - Web Applications Developement student at IES Puerto Cruz
 
-- Novel driver <img src="https://drive.google.com/file/d/1OlIznekeeldqu6xEq6uBCsuHBr9OpOQu/view?usp=drivesdk" width="12px" height="20px">
+- Novel driver <img src="https://github.com/Angel170605/IMGS/blob/main/IMG_4096.PNG" width="15px" height="20px">
 
 - Football Fan ⚽❤️💙 
 
@@ -28,17 +28,6 @@ Hi! I'm Angel, a canary student.
 
 2. Keep traveling...✈️
 > Must ro visit: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇩🇪 🇮🇸 🇫🇮 🇺🇸(NY, CA) 🇪🇸(BARCELONA),...
-
-
-
-```
-                                  =          
-                                 =
-======      =      =       =   ======  =     =
-     =     = =     = =   = =   =    =  = =   =
-=    =    = = =    =   =   =   =    =  =   = =
- ====    =     =   =       =   ======  =     = 
-```
 
 <!--
 **Angel170605/Angel170605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
