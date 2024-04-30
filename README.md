@@ -4,12 +4,10 @@
 
 </div>
 
-Hi! I'm Angel, a Canary Islands student, novel driver <img src="https://github.com/Angel170605/IMGS/blob/main/L.png" width="1%" height="1%">   and traveler who loves football, drive my parents (for now) car, travel around the world, and eat Cocido Extra Argal's ham.
+Hi! I'm Angel, a Canary Islands student, novel driver <img src="https://github.com/Angel170605/IMGS/blob/main/L.png" width="1%" height="1%">   and traveler who loves football <img src="https://github.com/Angel170605/IMGS/blob/main/fcb.png" height="2%" width="2%" >, drive cars, travel around the world, Travis Scott, Drake and Meto Boomin's music, and eat Cocido Extra Argal's ham.
 
   Travel checklist ✅:
 
- 
-  
      🇫🇷 (2015, 2017)
      🇵🇹 (2018)
      🇳🇱 (2019)
@@ -31,7 +29,14 @@ Hi! I'm Angel, a Canary Islands student, novel driver <img src="https://github.c
 
 ### Keep traveling...✈️
 
- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇩🇪 🇮🇸 🇫🇮 🇺🇸(NY, CA) 🇪🇸(BARCELONA [New Camp Nou] ), and much more...
+Must to stay on:
+
+     🏴󠁧󠁢󠁥󠁮󠁧󠁿 
+     🇩🇪 
+     🇮🇸 
+     🇫🇮 
+     🇺🇸 (NY, CA) 
+     🇪🇸 (BARCELONA)
 
 </div>
 <!--
