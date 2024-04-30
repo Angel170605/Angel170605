@@ -4,9 +4,14 @@
 
 </div>
 
-Hi! I'm Angel, a Canary Islands student, novel driver <img src="https://github.com/Angel170605/IMGS/blob/main/L.png" width="1.25%" height="1.25%">   and traveler who loves football <img src="https://github.com/Angel170605/IMGS/blob/main/fcb.png" height="2%" width="2%" >, drive cars, travel around the world, Travis Scott, Drake and Meto Boomin's music, and eat Cocido Extra Argal's ham.
+Hello! I'm Ángel, a current Web Applications Developer from Canary Islands 🇮🇨🌴. I'm also:
+- Novel driver <img src="https://github.com/Angel170605/IMGS/blob/main/L.png" width="1.25%" height="1.25%">
+> I love to drive. Since I started the drivers school (Autoescuela Élite), drive became one of my favourite things.
+- Football fan
+> Culer <img src="https://github.com/Angel170605/IMGS/blob/main/fcb.png" height="2%" width="2%" > over anithing.
+- Traveler ✈️ 🌎
 
-  Travel checklist ✅:
+>  Travel checklist ✅:
 
      🇫🇷 (2015, 2017)
      🇵🇹 (2018)
@@ -16,6 +21,9 @@ Hi! I'm Angel, a Canary Islands student, novel driver <img src="https://github.c
      🇮🇹 (2023)
 
  <div align="center">
+ - American music fan 
+ > Travis Scott, Drake and Metro's music are fireee 
+ 
 
 ## Life goals 🎯
 
