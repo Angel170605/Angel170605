@@ -4,31 +4,36 @@
 
 </div>
 
-Hi! I'm Angel, a canary student.
+Hi! I'm Angel, a Canary Islands student, novel driver <img src="https://github.com/Angel170605/IMGS/blob/main/L.png" width="1%" height="1%">   and traveler who loves football, drive my parents (for now) car, travel around the world, and eat Cocido Extra Argal's ham.
 
-- Web Applications Developement student at IES Puerto Cruz
+  Travel checklist ✅:
 
-- Novel driver  <img src="https://github.com/Angel170605/IMGS/blob/main/L.png" width="13.25px" height="20px">
-
-- Football Fan ⚽❤️💙 
-
-- Traveler ✈️🌍
+ 
   
-  - ✅: 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸(FL) 🇮🇹
+     🇫🇷 (2015, 2017)
+     🇵🇹 (2018)
+     🇳🇱 (2019)
+     🇧🇪 (2019)
+     🇺🇸 (FL, 2022)
+     🇮🇹 (2023)
 
-- Life goals 🎯
+ <div align="center">
 
-<div align="center">
+## Life goals 🎯
 
-1. <img src="https://github.com/Angel170605/IMGS/blob/main/tremendo.gif" width=30% height=30%>
+### Be a Honda Civic owner
+
+  <img src="https://github.com/Angel170605/IMGS/blob/main/tremendo.gif" width=30% height=30%>
+
+
+
+> It's incredible...
+
+### Keep traveling...✈️
+
+ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇩🇪 🇮🇸 🇫🇮 🇺🇸(NY, CA) 🇪🇸(BARCELONA [New Camp Nou] ), and much more...
 
 </div>
-
-> Be a Honda Civic owner
-
-2. Keep traveling...✈️
-> Must ro visit: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇩🇪 🇮🇸 🇫🇮 🇺🇸(NY, CA) 🇪🇸(BARCELONA),...
-
 <!--
 **Angel170605/Angel170605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
