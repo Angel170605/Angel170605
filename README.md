@@ -4,7 +4,7 @@
 
 </div>
 
-Hi! I'm Angel, a Canary Islands student, novel driver <img src="https://github.com/Angel170605/IMGS/blob/main/L.png" width="2%" height="2%">   and traveler who loves football <img src="https://github.com/Angel170605/IMGS/blob/main/fcb.png" height="2%" width="2%" >, drive cars, travel around the world, Travis Scott, Drake and Meto Boomin's music, and eat Cocido Extra Argal's ham.
+Hi! I'm Angel, a Canary Islands student, novel driver <img src="https://github.com/Angel170605/IMGS/blob/main/L.png" width="1.25%" height="1.25%">   and traveler who loves football <img src="https://github.com/Angel170605/IMGS/blob/main/fcb.png" height="2%" width="2%" >, drive cars, travel around the world, Travis Scott, Drake and Meto Boomin's music, and eat Cocido Extra Argal's ham.
 
   Travel checklist ✅:
 
