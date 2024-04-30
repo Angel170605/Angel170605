@@ -29,6 +29,8 @@ Hi! I'm Angel, a Canary Islands student, novel driver <img src="https://github.c
 
 ### Keep traveling...✈️
 
+</div>
+
 Must to stay on:
 
      🏴󠁧󠁢󠁥󠁮󠁧󠁿 
@@ -38,7 +40,6 @@ Must to stay on:
      🇺🇸 (NY, CA) 
      🇪🇸 (BARCELONA)
 
-</div>
 <!--
 **Angel170605/Angel170605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
