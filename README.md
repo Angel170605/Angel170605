@@ -11,7 +11,7 @@ Hello! I'm Ángel, a current Web Applications Developer from Canary Islands 🇮
 > Culer <img src="https://github.com/Angel170605/IMGS/blob/main/fcb.png" height="2%" width="2%" > over anithing.
 
  - American music fan 
- > Drake, Travis Scott, Metro Boomin, 21 Savage, Migos, Lil Tjay, Lil Baby, Pop Smoke... Stuck in *Astroworld* and *Heroes & Villains* 
+ > I really like music by Drake, Travis Scott, Metro Boomin, 21 Savage, Migos, Lil Tjay, Lil Baby, Pop Smoke... Stuck in *Astroworld* and *Heroes & Villains* 
 
 - Traveler ✈️ 🌎
 
