@@ -6,9 +6,13 @@
 
 Hello! I'm Ángel, a current Web Applications Developer from Canary Islands 🇮🇨🌴. I'm also:
 - Novel driver <img src="https://github.com/Angel170605/IMGS/blob/main/L.png" width="1.25%" height="1.25%">
-> I love to drive. Since I started the drivers school (Autoescuela Élite), drive became one of my favourite things.
+> I love to drive. I started at Autoescuela Élite (drivers school) with so much illusion, and driving became one of my favorite things.
 - Football fan
 > Culer <img src="https://github.com/Angel170605/IMGS/blob/main/fcb.png" height="2%" width="2%" > over anithing.
+
+ - American music fan 
+ > Drake, Travis Scott, Metro Boomin, 21 Savage, Migos, Lil Tjay, Lil Baby, Pop Smoke... Stuck in *Astroworld* and *Heroes & Villains* 
+
 - Traveler ✈️ 🌎
 
 >  Travel checklist ✅:
@@ -21,8 +25,7 @@ Hello! I'm Ángel, a current Web Applications Developer from Canary Islands 🇮
      🇮🇹 (2023)
 
  <div align="center">
- - American music fan 
- > Travis Scott, Drake and Metro's music are fireee 
+
  
 
 ## Life goals 🎯
