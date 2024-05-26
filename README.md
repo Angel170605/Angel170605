@@ -12,41 +12,15 @@ Hello! I'm Ángel, a current Web Applications Developer from Canary Islands 🇮
 
 - Traveler ✈️ 🌎
 
->  Travel checklist ✅:
+>  Checklist ✅: 🇫🇷 (2015, 2017) 🇵🇹 (2018) 🇳🇱 (2019) 🇧🇪 (2019) 🇺🇸 (FL, 2022) 🇮🇹 (2023) 🇻🇦 (2023)
 
-     🇫🇷 (2015, 2017)
-     🇵🇹 (2018)
-     🇳🇱 (2019)
-     🇧🇪 (2019)
-     🇺🇸 (FL, 2022)
-     🇮🇹 (2023)
+- Future Honda Civic owner
 
  <div align="center">
-
- 
-
-## Life goals 🎯
-
-### Be a Honda Civic owner
-
+   
   <img src="https://github.com/Angel170605/IMGS/blob/main/tremendo.gif" width=30% height=30%>
 
-
-
-> It's incredible...
-
-### Keep traveling...✈️
-
-</div>
-
-Must to stay on:
-
-     🏴󠁧󠁢󠁥󠁮󠁧󠁿 
-     🇩🇪 
-     🇮🇸 
-     🇫🇮 
-     🇺🇸 (NY, CA) 
-     🇪🇸 (BARCELONA)
+  </div>
 
 <!--
 **Angel170605/Angel170605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
