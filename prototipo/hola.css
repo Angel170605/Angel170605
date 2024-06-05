@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bttn{
+    display: flex;
+    width: fit-content;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background-image: linear-gradient(144deg, greenyellow, cyan);
+    border-radius: 20px;
+    padding: 3px;
+    cursor:pointer;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    white-space: nowrap;
+    margin: 10px 10px 10px 10px;
+}
+
+
+.btn{
+    background-color: white;
+    padding: 10px 24px;
+    border-radius: 18px;
+    width: fit-content;
+    height: 100%;
+   }
+
+.btn:hover{
+    background-color: transparent;
+    transition: 0.2s;
+    color: white;
+}
