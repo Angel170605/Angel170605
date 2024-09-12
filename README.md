@@ -4,7 +4,7 @@
 
 </div>
 
-Hello! I'm Ángel, a current Web Applications Developer from Canary Islands 🇮🇨🌴. I'm also:
+Hello! I'm Ángel, a current Web Applications Developement student from Canary Islands 🇮🇨🌴. I'm also:
 - Novel driver <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/L.png" width="1.25%" height="1.25%">
 > I love to drive. I learned it at Autoescuela Élite (drivers school) with really wants and illusion, and driving became one of my favorite things to do.
 - Football fan
