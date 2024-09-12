@@ -22,6 +22,8 @@ Hello! I'm Ángel, a current Web Applications Developement student from Canary I
 
   </div>
 
+  > It's just amazing...
+
 <!--
 **Angel170605/Angel170605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
