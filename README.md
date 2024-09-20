@@ -8,7 +8,7 @@ Hello! I'm Ángel, a current Web Applications Developement student from Canary I
 - Novel driver <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/L.png" width="1.25%" height="1.25%">
 > I love to drive. I learned it at Autoescuela Élite (drivers school) with really wants and illusion, and driving became one of my favorite things to do.
 - Football fan
-> Culer <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/fcb.png" height="2%" width="2%" > over anithing.
+> Culer <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/fcb.png" height="2%" width="2%" > over anything.
 
 - Traveler ✈️ 🌎
 
