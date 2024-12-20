@@ -15,7 +15,9 @@ Hello! I'm Ángel, a current Web Applications Developement student from Canary I
 > I have been on different countries and, at this way, keep travleing around the world became one of my life goals.
 > My checklist: ✅ 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸 (FL) 🇮🇹 🇻🇦
 
-- Future Honda Civic owner
+- Life goals:
+
+- Be an Honda Civic owner
 
  <div align="center">
    
