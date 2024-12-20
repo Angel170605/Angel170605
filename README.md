@@ -4,15 +4,16 @@
 
 </div>
 
-Hello! I'm Ángel, a current Web Applications Developement student from Canary Islands 🇮🇨🌴. I'm also:
-- Novel driver <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/L.png" width="1.25%" height="1.25%">
-> I love to drive. I learned it at Autoescuela Élite (drivers school) with really wants and illusion, and driving became one of my favorite things to do.
-- Football fan
-> Culer <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/fcb.png" height="2%" width="2%" > over anything.
+Hello! I'm Ángel, a current Web Applications Developement student from Canary Islands 🇮🇨🌴. In me free time I like to:
+- Drive <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/L.png" width="1.25%" height="1.25%">
+> I love to drive. Since I started at the drivers school, driving became one of my favorite things to do. I don't know why, but it's is.
+- Football :
+> I LOVE play and watch football. I use to follow the european top leagues, and play with my friends. Also I'm an undoubted culer <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/fcb.png" height="2%" width="2%" >
 
-- Traveler ✈️ 🌎
+- Travel around the world ✈️ 🌎
 
->  Checklist ✅: 🇫🇷 (2015, 2017) 🇵🇹 (2018) 🇳🇱 (2019) 🇧🇪 (2019) 🇺🇸 (FL, 2022) 🇮🇹 (2023) 🇻🇦 (2023)
+> I have been on different countries and, at this way, keep travleing around the world became one of my life goals.
+> My checklist: ✅ 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸 (FL) 🇮🇹 🇻🇦
 
 - Future Honda Civic owner
 
