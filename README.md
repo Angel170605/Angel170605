@@ -13,9 +13,16 @@ Hello! I'm Ángel, a current Web Applications Developement student from Canary I
 - Travel around the world ✈️ 🌎
 
 > I have been on different countries and, at this way, keep travleing around the world became one of my life goals.
-> My checklist: ✅ 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸 (FL) 🇮🇹 🇻🇦
+> That's my target visited countries checklist: ✅ 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸 (FL) 🇮🇹 🇻🇦
 
-- Life goals:
+- Video and image edition:
+> I like to make small projects with iMovie or Gimp. I'm not the best, but I really like create and learn about this incredible world.
+
+- Stay with family and friends:
+> I really like to stay with my family and, obviously, with my friens, bros, fellas, mis panas.
+
+### Life goals 🎯:
+> Also I have some canonical life goals:
 
 - Be an Honda Civic owner
 
@@ -26,6 +33,10 @@ Hello! I'm Ángel, a current Web Applications Developement student from Canary I
   </div>
 
   > Just amazing...
+
+- Keep traveling around the world:
+> Must to visit: 🇪🇸 (The new Spotify Camp Nou src="https://github.com/Angel170605/1DAW/blob/main/IMGS/fcb.png" height="2%" width="2%" > ), 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇩🇪, 🇫🇮, 🇺🇸 (NY, CA)
+
 
 <!--
 **Angel170605/Angel170605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
