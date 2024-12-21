@@ -15,11 +15,11 @@ Hello! I'm Ángel, a current Web Applications Developement student from Canary I
 > I have been on different countries and, at this way, keep travleing around the world became one of my life goals.
 > That's my target visited countries checklist: ✅ 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸 (FL) 🇮🇹 🇻🇦
 
-- Video and image edition:
+- Video and image edition 🎥🎬:
 > I like to make small projects with iMovie or Gimp. I'm not the best, but I really like create and learn about this incredible world.
 
 - Stay with family and friends:
-> I really like to stay with my family and, obviously, with my friens, bros, fellas, mis panas.
+> I really like to stay with my family and, obviously, with my friens, bros, mis panas.
 
 ### Life goals 🎯:
 > Also I have some canonical life goals:
