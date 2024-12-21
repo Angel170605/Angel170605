@@ -35,7 +35,7 @@ Hello! I'm Ángel, a current Web Applications Developement student from Canary I
   > Just amazing...
 
 - Keep traveling around the world:
-> Must to visit: 🇪🇸 (The new Spotify Camp Nou src="https://github.com/Angel170605/1DAW/blob/main/IMGS/fcb.png" height="2%" width="2%" > ), 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇩🇪, 🇫🇮, 🇺🇸 (NY, CA)
+> Must to visit: 🇪🇸 (The new Spotify Camp Nou <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/fcb.png" height="2%" width="2%" > ), 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇩🇪, 🇫🇮, 🇺🇸 (NY, CA)
 
 
 <!--
