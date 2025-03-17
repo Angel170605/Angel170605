@@ -29,8 +29,7 @@ Here are a couple of personal projects I've worked on in my free time:
 - **Python Wordle**: A humble recreation of Wordle in Python. It features a list of Spanish words, and the program, powered by the `random` library, selects a word for the player to guess within a limited number of attempts.
 
 - **Realejos Summer League**: A Django-based web application for managing a real futsal competition that my friend and I will organize in Summer 2025. Initially, it was a simple HTML page with a little CSS to inform participants, but thanks to my teacher [sdelquin](https://github.com/sdelquin), I learned Django and expanded it into a functional web application.
-
-You can visit the website [here](summerleague.pythonanywhere.com).
+You can visit the website [here](http://summerleague.pythonanywhere.com/summer-league/).
 
 ---
 
