@@ -1,4 +1,4 @@
-## Welcome to my GitHub Profile!
+# Welcome to my GitHub Profile 👋!
 
 Hi! I'm Ángel, a current Web Applications Development student from the Canary Islands 🇮🇨🌴.
 
