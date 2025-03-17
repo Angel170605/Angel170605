@@ -1,42 +1,81 @@
-<div align="center">
+## Welcome to my GitHub Profile!
+
+Hi! I'm Ángel, a current Web Applications Development student from the Canary Islands 🇮🇨🌴.
+
+# Studies and programming skills 🖥️
+
+During this two-year module, I gained some foundational programming skills and learned several basic languages, which I'm currently working to improve and expand upon.
+
+### Programming Skills 🐍
+
+I have basic knowledge of SQLite, SQL, Markdown, Shell, Bash, and the Bootstrap library. Additionally, I have solid skills in HTML, CSS, and Python.  
+
+Along the way, I gained beginner-level experience with Python's Django framework, which I find to be an incredible and powerful tool for creating interesting web applications in a relatively easy way.
+
+### Currently learning 💼💰​🧠​
+
+I'm currently completing my FCT (Working Centers Formation) at Elantia, a digital marketing enterprise, where I'm learning about exciting SEO and WPO tools.
+
+While these aren't directly programming languages, they're invaluable for creating faster and more efficient web applications, as well as enhancing user experiences.
+
+### What I would like to learn ☕
+
+Nowadays, practically all modern websites rely on JavaScript, a powerful tool for creating interactivity and improving user experiences. It's a skill I would love to master to create even more engaging projects.
+
+### Personal Projects 🦆
+
+Here are a couple of personal projects I've worked on in my free time:
+
+- **Python Wordle**: A humble recreation of Wordle in Python. It features a list of Spanish words, and the program, powered by the `random` library, selects a word for the player to guess within a limited number of attempts.
+
+- **Realejos Summer League**: A Django-based web application for managing a real futsal competition that my friend and I will organize in Summer 2025. Initially, it was a simple HTML page with a little CSS to inform participants, but thanks to my teacher [sdelquin](https://github.com/sdelquin), I learned Django and expanded it into a functional web application.
+
+You can visit the website [here](summerleague.pythonanywhere.com).
+
+---
+
+### In my free time
+
+<details>
+  <summary>What I like to do on my free time</summary>
   
-# 👋 Welcome to my github profile! 👋 
+- **Play and watch football ⚽​**: Football is my favorite sport. I follow top European leagues and play whenever I can. 
+  > Obviously, I'm *culer* 🔴​🔵, and also enjoy following Valencia CF and other teams.
 
-</div>
+- **Drive 🚗**: Since discovering the Honda Civic as a teenager, driving has become one of my favorite activities. I got my license more than a year ago, and I still love exploring the road.
+  > Always legally.
 
-Hello! I'm Ángel, a current Web Applications Developement student from Canary Islands 🇮🇨🌴. In me free time I like to:
-- Drive <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/L.png" width="1.25%" height="1.25%">
-> I love to drive. Since I started at the drivers school, driving became one of my favorite things to do. I don't know why, but it's is.
-- Football :
-> I LOVE play and watch football. I use to follow the european top leagues, and play with my friends. Also I'm an undoubted culer <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/fcb.png" height="2%" width="2%" >
+- **Spend time with loved ones 🤜🤛**: There's nothing better than enjoying moments with family, friends, and the people who make my life brighter.
+  > 🍦✨
 
-- Travel around the world ✈️ 🌎
+- **Hit the gym 💪**: Training four days a week helps me stay physically and mentally strong. 
+  > Leg day is non-negotiable 🦵.
 
-> I have been on different countries and, at this way, keep travleing around the world became one of my life goals.
-> That's my target visited countries checklist: ✅ 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸 (FL) 🇮🇹 🇻🇦
+- **Create audiovisual projects 🎬📽️​💻**: I enjoy using tools like Gimp and iMovie to make small creative projects. It’s fun to learn and see how my skills improve with time.
+  > Everything is possible when you try.
 
-- Video and image edition 🎥🎬:
-> I like to make small projects with iMovie or Gimp. I'm not the best, but I really like create and learn about this incredible world.
+- **Listen to music 🎵**: Hip-hop, especially American and British, is my go-to genre. 
+  > IT'S LIT! 🔥🔥🔥
 
-- Stay with family and friends:
-> I really like to stay with my family and, obviously, with my friens, bros, mis panas.
+- **Travel around the world ✈️ 🌎**: Traveling has taught me that every country has something special to offer. 
+  > Target checklist ✅: 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸 (FL) 🇮🇹 🇻🇦.
+</details>
 
-### Life goals 🎯:
-> Also I have some canonical life goals:
+### Life goals 🎯
 
-- Be an Honda Civic owner
+<details>
+  <summary>My cannonical life goals</summary>
 
- <div align="center">
-   
-  <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/tremendo.gif" width=30% height=30%>
+- **Bring joy to those who matter most**: My greatest goal is to make the most important person in my life even happier than she makes me.
+  > 🍦✨
 
-  </div>
+- **Explore the world**: I want to continue traveling to new places with meaningful company. The more countries, the better!
+  > Must-visit destinations: 🇪🇸 (Espai Barça, Mestalla), 🏴, 🇩🇪, 🇫🇮, 🇺🇸 (NY, CAL, FL), 🇪🇬, 🇮🇹, 🇳🇴, 🇦🇪, 🇵🇹, 🇫🇷, 🇮🇸, 🇨🇭.
 
-  > Just amazing...
+- **Own a Honda Civic**: Some day, I'll have my own 10th-gen electric blue Honda Civic. 
+  > Art on four wheels... Type R or not.
 
-- Keep traveling around the world:
-> Must to visit: 🇪🇸 (The new Spotify Camp Nou <img src="https://github.com/Angel170605/1DAW/blob/main/IMGS/fcb.png" height="2%" width="2%" > ), 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇩🇪, 🇫🇮, 🇺🇸 (NY, CA)
-
+</details>
 
 <!--
 **Angel170605/Angel170605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
