@@ -4,7 +4,7 @@ Hi! I'm Ángel, a current Web Applications Development student from the Canary I
 
 # Studies and programming skills 🖥️
 
-During this two-year module, I gained some foundational programming skills and learned several basic languages, which I'm currently working to improve and expand upon.
+After finishing the Scientific and Technological Baccalaureate, and during this two-year module, I gained some foundational programming skills and learned several basic languages, which I'm currently working to improve and expand upon.
 
 ### Programming Skills 🐍
 
