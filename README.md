@@ -45,17 +45,8 @@ You can visit the website [here](summerleague.pythonanywhere.com).
 - **Drive 🚗**: Since discovering the Honda Civic as a teenager, driving has become one of my favorite activities. I got my license more than a year ago, and I still love exploring the road.
   > Always legally.
 
-- **Spend time with loved ones 🤜🤛**: There's nothing better than enjoying moments with family, friends, and the people who make my life brighter.
+- **Spend time with important ones 🤜🤛**: There's nothing better than enjoying moments with family, friends, and the people who make my life brighter.
   > 🍦✨
-
-- **Hit the gym 💪**: Training four days a week helps me stay physically and mentally strong. 
-  > Leg day is non-negotiable 🦵.
-
-- **Create audiovisual projects 🎬📽️​💻**: I enjoy using tools like Gimp and iMovie to make small creative projects. It’s fun to learn and see how my skills improve with time.
-  > Everything is possible when you try.
-
-- **Listen to music 🎵**: Hip-hop, especially American and British, is my go-to genre. 
-  > IT'S LIT! 🔥🔥🔥
 
 - **Travel around the world ✈️ 🌎**: Traveling has taught me that every country has something special to offer. 
   > Target checklist ✅: 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸 (FL) 🇮🇹 🇻🇦.
