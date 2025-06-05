@@ -1,10 +1,10 @@
 # Welcome to my GitHub Profile 👋!
 
-Hi! I'm Ángel, a current Web Applications Development student from the Canary Islands 🇮🇨🌴.
+Hi! I'm Ángel, a student from the Canary Islands 🇮🇨🌴.
 
 # Studies and programming skills 🖥️
 
-After finishing the Scientific and Technological Baccalaureate, and during this two-year module, I gained some foundational programming skills and learned several basic languages, which I'm currently working to improve and expand upon.
+After finishing the Scientific and Technological Baccalaureate and during the DAW (Web-Applications Development) grade, I gained some foundational programming skills and learned several basic languages, which I'm currently working to improve and expand upon.
 
 ### Programming Skills 🐍
 
@@ -12,11 +12,13 @@ I have basic knowledge of SQLite, SQL, Markdown, Shell, Bash, and the Bootstrap 
 
 Along the way, I gained beginner-level experience with Python's Django framework, which I find to be an incredible and powerful tool for creating interesting web applications in a relatively easy way.
 
-### Currently learning 💼💰​🧠​
-
-I'm currently completing my FCT (Working Centers Formation) at Elantia, a digital marketing enterprise, where I'm learning about exciting SEO and WPO tools.
+Also I completed my FCT (Working Centers Formation) at Elantia, a digital marketing enterprise, where I learned a lot about SEO and WPO tools.
 
 While these aren't directly programming languages, they're invaluable for creating faster and more efficient web applications, as well as enhancing user experiences.
+
+### Next goal 🎯
+
+After finishing DAW, my next step is complement my grade studying DAM (Multiplatform-Applications Development). This way, I'll expand my abilities to improve my opportunities in the job market
 
 ### What I would like to learn ☕
 
@@ -29,7 +31,7 @@ Nowadays, practically all modern websites rely on JavaScript, a powerful tool fo
   
 - **Python Wordle**: A humble recreation of Wordle in Python. It features a list of Spanish words, and the program, powered by the `random` library, selects a word for the player to guess within a limited number of attempts.
 
-- **Realejos Summer League**: A Django-based web application for managing a real futsal competition that my friend and I will organize in Summer 2025. Initially, it was a simple HTML page with a little CSS to inform participants, but thanks to my teacher [sdelquin](https://github.com/sdelquin), I learned Django and expanded it into a functional web application.
+- **Realejos Summer League**: A Django-based web application for managing a real futsal competition that my friend and I will organize some day. Initially, it was a simple HTML page with a little CSS to inform participants, but thanks to my teacher [sdelquin](https://github.com/sdelquin), I learned Django and expanded it into a functional web application.
 You can visit the website [here](http://summerleague.pythonanywhere.com/summer-league/).
 </details>
 
@@ -56,7 +58,7 @@ You can visit the website [here](http://summerleague.pythonanywhere.com/summer-l
 ### Life goals 🎯
 
 <details>
-  <summary>My cannonical life goals</summary>
+  <summary>My canonical life goals</summary>
 
 - **Bring joy to those who matter most**: My greatest goal is to make the most important person in my life even happier than she makes me.
   > 🍦✨
