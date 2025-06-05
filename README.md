@@ -20,10 +20,6 @@ While these aren't directly programming languages, they're invaluable for creati
 
 After finishing DAW, my next step is complement my grade studying DAM (Multiplatform-Applications Development). This way, I'll expand my abilities to improve my opportunities in the job market
 
-### What I would like to learn ☕
-
-Nowadays, practically all modern websites rely on JavaScript, a powerful tool for creating interactivity and improving user experiences. It's a skill I would love to master to create even more engaging projects.
-
 ### Personal Projects 🦆
 
 <details>
