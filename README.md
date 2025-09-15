@@ -47,7 +47,7 @@ You can visit the website [here](http://summerleague.pythonanywhere.com/summer-l
 - **Spend time with important ones 🤜🤛**: There's nothing better than enjoying moments with family and friends.
 
 - **Travel around the world ✈️ 🌎**: Traveling has taught me that every country has something special to offer. 
-  > Target checklist ✅: 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸 (FL) 🇮🇹 🇻🇦.
+  > Target checklist ✅: 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸 (FL) 🇮🇹 🇻🇦 🏴󠁧󠁢󠁥󠁮󠁧󠁿.
 </details>
 
 ### Life goals 🎯
