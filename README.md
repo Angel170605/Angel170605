@@ -44,8 +44,7 @@ You can visit the website [here](http://summerleague.pythonanywhere.com/summer-l
 - **Drive 🚗**: Since discovering the Honda Civic as a teenager, driving has become one of my favorite activities. I got my license more than a year ago, and I still love exploring the road.
   > Always legally.
 
-- **Spend time with important ones 🤜🤛**: There's nothing better than enjoying moments with family, friends, and the person who make my life brighter.
-  > 🍦✨
+- **Spend time with important ones 🤜🤛**: There's nothing better than enjoying moments with family and friends.
 
 - **Travel around the world ✈️ 🌎**: Traveling has taught me that every country has something special to offer. 
   > Target checklist ✅: 🇫🇷 🇵🇹 🇳🇱 🇧🇪 🇺🇸 (FL) 🇮🇹 🇻🇦.
@@ -55,9 +54,6 @@ You can visit the website [here](http://summerleague.pythonanywhere.com/summer-l
 
 <details>
   <summary>My canonical life goals</summary>
-
-- **Bring joy to those who matter most**: My greatest goal is to make the most important person in my life even happier than she makes me.
-  > 🍦✨
 
 - **Keep traveling around the world**: I want to continue traveling to new places with meaningful company. The more countries, the better.
   > Must-visit destinations: 🇪🇸 (Espai Barça, Tarragona, Benidorm, Vigo), 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇩🇪, 🇫🇮, 🇺🇸 (NY, CAL, FL), 🇪🇬, 🇮🇹, 🇳🇴, 🇦🇪, 🇵🇹, 🇫🇷, 🇮🇸, 🇨🇭.
