@@ -56,7 +56,7 @@ You can visit the website [here](http://summerleague.pythonanywhere.com/summer-l
   <summary>My canonical life goals</summary>
 
 - **Keep traveling around the world**: I want to continue traveling to new places with meaningful company. The more countries, the better.
-  > Must-visit destinations: 🇪🇸 (Espai Barça, Tarragona, Benidorm, Vigo), 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇩🇪, 🇫🇮, 🇺🇸 (NY, CAL, FL), 🇪🇬, 🇮🇹, 🇳🇴, 🇦🇪, 🇵🇹, 🇫🇷, 🇮🇸, 🇨🇭.
+  > Must-visit destinations: 🇪🇸 (Espai Barça), 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (Liverpool, Manchester), 🇩🇪, 🇫🇮, 🇺🇸 (NY, CAL, FL), 🇪🇬, 🇮🇹, 🇳🇴, 🇦🇪, 🇵🇹, 🇫🇷, 🇮🇸, 🇨🇭.
 
 - **Own a Honda Civic**: Some day, I'll have my own 10th-gen electric blue Honda Civic. 
   > Art on four wheels... Type R or not.
