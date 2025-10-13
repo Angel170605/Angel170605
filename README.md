@@ -39,7 +39,7 @@ You can visit the website [here](http://summerleague.pythonanywhere.com/summer-l
 - **Sports ⚽💪⛰️​**: Football is almost my religion, I love to play and watch it. Also I go to the gym and enjoy hiking.
   > Obviously, I'm an undoubtable *culer* 🔴​🔵.
 
-- **Drive 🚗**: Since discovering it at the drivers school, driving has become one of my favorite activities. I got my license more than a year ago, and I still love to drive chill with my music.
+- **Drive 🚗**: Since I discovered it at the drivers school, driving has become one of my favorite activities. I got my license more than a year ago, and I still love to drive chill with my music.
   > Always legally.
 
 - **Music 🎶**: I love english hip-hop music. Travis Scott, Central Cee, Playboi Carti, Drake, Metro...
