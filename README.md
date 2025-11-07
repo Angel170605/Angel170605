@@ -2,7 +2,9 @@
 
 Hi! I'm Ángel, from the Canary Islands 🇮🇨🌴. I'm currently working managing a shop's Wordpress sites: content, SEO, marketing...
 
-# Formation and Laboral Experience 📚
+### Formation and Laboral Experience 📚
+
+<details>
 
 - Scientific and Technological Baccalaureate (2021-2023) 🎓
 - Higher Degree in Web-Applications Development (DAW) (2023-2025) 🎓
@@ -13,7 +15,15 @@ Hi! I'm Ángel, from the Canary Islands 🇮🇨🌴. I'm currently working mana
   
 - **Currently working as a web developer at Ferretería Rosalesa (Oct 2025 - now) 💼**
 
+#### What's next? 🔜
+
+I am currently looking to return to my studies, exploring fields that align more with my passion and professional aspirations. While I have many options, the one I am most drawn to is psychology. The way the human mind works is incredibly fascinating, and I would find fulfillment in applying it to listen without judgment, understand people, and offer support during challenging times.
+
+</details>
+
 ### Programming Skills 🐍
+
+<details>
 
 I have basic knowledge of SQLite, SQL, Markdown, Shell, Bash, and the Bootstrap library. Additionally, I have solid skills in HTML, CSS, and Python.  
 
@@ -23,21 +33,13 @@ Also I completed my FCT (Working Centers Formation) at Elantia, a digital market
 
 While these aren't directly programming languages, they're invaluable for creating faster and more efficient web applications, as well as enhancing user experiences.
 
-### Personal Progamming Projects 🦆
-
-<details>
-  <summary>Here are a couple of personal projects I've worked on in my free time:</summary>
+#### Personal Progamming Projects 💻
   
-- **Python Wordle**: A humble recreation of Wordle in Python. It features a list of Spanish words, and the program, powered by the `random` library, selects a word for the player to guess within a limited number of attempts.
+- **Python Wordle 🔤**: A humble recreation of Wordle in Python. It features a list of Spanish words, and the program, powered by the `random` library, selects a word for the player to guess within a limited number of attempts.
 
-- **Realejos Summer League**: A Django-based web application for managing a real futsal competition that my friend and I will organize some day. Initially, it was a simple HTML page with a little CSS to inform participants, but thanks to my teacher [sdelquin](https://github.com/sdelquin), I learned Django and expanded it into a functional web application.
+- **Realejos Summer League ⚽**: A Django-based web application for managing a real futsal competition that my friend and I will organize some day. Initially, it was a simple HTML page with a little CSS to inform participants, but thanks to my teacher [sdelquin](https://github.com/sdelquin), I learned Django and expanded it into a functional web application.
 You can visit the website [here](http://summerleague.pythonanywhere.com/summer-league/).
 </details>
-
-
-# What's next? 🔜
-
-I am currently looking to return to my studies, exploring fields that align more with my passion and professional aspirations. While I have many options, the one I am most drawn to is psychology. The way the human mind works is incredibly fascinating, and I would find fulfillment in applying it to listen without judgment, understand people, and offer support during challenging times.
 
 ---
 
