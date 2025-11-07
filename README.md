@@ -1,10 +1,17 @@
 # Welcome to my GitHub Profile 👋!
 
-Hi! I'm Ángel, a student from the Canary Islands 🇮🇨🌴.
+Hi! I'm Ángel, from the Canary Islands 🇮🇨🌴. I'm currently working managing a shop's Wordpress sites: content, SEO, marketing...
 
-# Studies and programming skills 🖥️
+# Formation and Laboral Experience 📚
 
-After finishing the Scientific and Technological Baccalaureate and during the DAW (Web-Applications Development) grade, I gained some foundational programming skills and learned several basic languages.
+- Scientific and Technological Baccalaureate (2021-2023) 🎓
+- Higher Degree in Web-Applications Development (DAW) (2023-2025) 🎓
+  - Internship at Elantia (2 months) 💼
+    
+- **Germany A2 Level (Sep 2025 - now) 📚**
+- Worked as a server at a burger joint (Sep 2025) 💼
+  
+- **Currently working as a web developer at Ferretería Rosalesa (Oct 2025 - now) 💼**
 
 ### Programming Skills 🐍
 
@@ -16,7 +23,7 @@ Also I completed my FCT (Working Centers Formation) at Elantia, a digital market
 
 While these aren't directly programming languages, they're invaluable for creating faster and more efficient web applications, as well as enhancing user experiences.
 
-### Personal Projects 🦆
+### Personal Progamming Projects 🦆
 
 <details>
   <summary>Here are a couple of personal projects I've worked on in my free time:</summary>
@@ -26,6 +33,11 @@ While these aren't directly programming languages, they're invaluable for creati
 - **Realejos Summer League**: A Django-based web application for managing a real futsal competition that my friend and I will organize some day. Initially, it was a simple HTML page with a little CSS to inform participants, but thanks to my teacher [sdelquin](https://github.com/sdelquin), I learned Django and expanded it into a functional web application.
 You can visit the website [here](http://summerleague.pythonanywhere.com/summer-league/).
 </details>
+
+
+# What's next? 🔜
+
+I am currently looking to return to my studies, exploring fields that align more with my passion and professional aspirations. While I have many options, the one I am most drawn to is psychology. The way the human mind works is incredibly fascinating, and I would find fulfillment in applying it to listen without judgment, understand people, and offer support during challenging times.
 
 ---
 
@@ -58,7 +70,7 @@ You can visit the website [here](http://summerleague.pythonanywhere.com/summer-l
 - **Keep traveling around the world**: I want to continue traveling to new places with meaningful company. The more countries, the better.
   > Must-visit destinations: 🇪🇸 (Espai Barça), 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (Liverpool, Manchester), 🇩🇪, 🇫🇮, 🇺🇸 (NY, CAL, FL), 🇪🇬, 🇮🇹, 🇳🇴, 🇦🇪, 🇵🇹, 🇫🇷, 🇮🇸, 🇨🇭.
 
-- **Own a Honda Civic**: Some day, I'll have my own 10th-gen electric blue Honda Civic. 
+- **Own a 10th-gen Honda Civic**: Some day, I'll have my own 10th-gen electric blue Honda Civic. 
   > Art on four wheels... Type R or not.
 
 </details>
