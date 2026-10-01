@@ -15,10 +15,6 @@ Hi! I'm Ángel, from the Canary Islands 🇮🇨🌴. I'm currently working mana
   
 - **Currently working as a web developer at Ferretería Rosalesa (Oct 2025 - now) 💼**
 
-#### What's next? 🔜
-
-I am currently looking to return to my studies, exploring fields that align more with my passion and professional aspirations. While I have many options, the one I am most drawn to is psychology. The way the human mind works is incredibly fascinating, and I would find fulfillment in applying it to listen without judgment, understand people, and offer support during challenging times.
-
 </details>
 
 ### Programming Skills 🐍
@@ -47,20 +43,15 @@ You can visit the website [here](http://summerleague.pythonanywhere.com/summer-l
 
 <details>
   <summary>What I like to do on my free time</summary>
-  
-- **Spend time with important ones 🤜🤛**: There's nothing better than enjoying moments with family and friends.
-  
-- **Sports ⚽💪⛰️​**: Football is almost my religion, I love to play and watch it. Also I go to the gym and enjoy hiking.
+    
+- **Sports ⚽💪⛰️​**: Football is almost my religion, I love to play and watch it. Also I really enjoy the gym everyday and hiking.
   > Obviously, I'm an undoubtable *culer* 🔴​🔵.
 
 - **Drive 🚗**: Since I discovered it at the drivers school, driving has become one of my favorite activities. I got my license more than a year ago, and I still love to drive chill with my music.
   > Always legally.
 
-- **Music 🎶**: I love english hip-hop music. Travis Scott, Central Cee, Playboi Carti, Drake, Metro...
-  > It's lit! 🗣️🔥
-  
-- **Reading 📖**: Stephen King's storietelling is really addictive.
-  > Currently stucked on the Bill Hodge's trilogy.
+- **Music 🎶, podcasts and Reading 📖**: I love music by Travis Scott, Central Cee, Drake and others, while the Stephen King's and Black Mango's storytelling are just addictive.
+  > Currently stuck on Birds in the trap sign McKnight and reading "You Like It Darker" 🔥🔥🔥
 
 </details>
 
@@ -70,10 +61,11 @@ You can visit the website [here](http://summerleague.pythonanywhere.com/summer-l
   <summary>My canonical life goals</summary>
 
 - **Keep traveling around the world**: I want to continue traveling to new places with meaningful company. The more countries, the better.
-  > Must-visit destinations: 🇪🇸 (Espai Barça), 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (Liverpool, Manchester), 🇩🇪, 🇫🇮, 🇺🇸 (NY, CAL, FL), 🇪🇬, 🇮🇹, 🇳🇴, 🇦🇪, 🇵🇹, 🇫🇷, 🇮🇸, 🇨🇭.
+  > Checklist: 🇫🇷, 🇵🇹, 🇳🇱, 🇧🇪, 🇮🇹, 🇺🇸 (FL), 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+  
+  > Must-visit destinations: 🇪🇸 (🔜 Camp Now, San Mamés), 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (Liverpool, Manchester), 🇩🇪, 🇫🇮, 🇺🇸 (🔜 NY, CAL), 🇪🇬, 🇮🇹 (Milan, Venecia), 🇳🇴, 🇦🇪, 🇵🇹, 🇫🇷, 🇮🇸, 🇨🇭.
 
-- **Own a 10th-gen Honda Civic**: Some day, I'll have my own 10th-gen electric blue Honda Civic. 
-  > Art on four wheels... Type R or not.
+- **Be happy ✨**: It sounds simple, but the most important thing in life.
 
 </details>
 
