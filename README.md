@@ -66,7 +66,7 @@ You can visit the website [here](http://summerleague.pythonanywhere.com/summer-l
   
   > Must-visit destinations: 🇪🇸 (🔜 Camp Now, San Mamés), 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (Liverpool, Manchester), 🇩🇪, 🇫🇮, 🇺🇸 (🔜 NY, CAL), 🇪🇬, 🇮🇹 (Milan, Venecia), 🇳🇴, 🇵🇹, 🇫🇷, 🇮🇸, 🇨🇭.
 
-- **Be happy ✨**: It sounds simple, but the most important thing in life.
+- **Be happy ✨**: It sounds simple, but that's the most important thing.
 
   </details>
 </details>
