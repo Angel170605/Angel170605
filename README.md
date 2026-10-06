@@ -39,34 +39,36 @@ You can visit the website [here](http://summerleague.pythonanywhere.com/summer-l
 
 ---
 
-### In my free time
+### About me 🦆
 
 <details>
-  <summary>What I like to do on my free time</summary>
+  <summary>I really like...</summary>
     
-- **Sports ⚽💪⛰️​**: Football is almost my religion, I love to play and watch it. Also I really enjoy the gym everyday and hiking.
+- **Sports ⚽💪⛰️​**: Football is almost my religion, I love to play and watch it. Also I really enjoy going to the gym and hiking.
   > Obviously, I'm an undoubtable *culer* 🔴​🔵.
 
 - **Drive 🚗**: Since I discovered it at the drivers school, driving has become one of my favorite activities. I got my license more than a year ago, and I still love to drive chill with my music.
   > Always legally.
 
-- **Music 🎶, podcasts and Reading 📖**: I love music by Travis Scott, Central Cee, Drake and others, while the Stephen King's and Black Mango's storytelling are just addictive.
-  > Currently stuck on Birds in the trap sign McKnight and reading "You Like It Darker" 🔥🔥🔥
+- **Music 🎶 and Reading 📖**: I love music by Travis Scott, Central Cee, Drake and others, while the Stephen King's storytelling is addictive.
+  > Currently stuck (again) on _Birds in the trap sign McKnight_ 🔥🔥🔥
 
-</details>
+- **Travel around the world 🌏**: I love to discover new countries and experience:
+  
+  > Checklist: 🇫🇷, 🇵🇹, 🇳🇱, 🇧🇪, 🇮🇹, 🇺🇸 (FL), 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
-### Life goals 🎯
+# My goals 🎯
 
 <details>
-  <summary>My canonical life goals</summary>
+  <summary>My personal goals</summary>
 
-- **Keep traveling around the world**: I want to continue traveling to new places with meaningful company. The more countries, the better.
-  > Checklist: 🇫🇷, 🇵🇹, 🇳🇱, 🇧🇪, 🇮🇹, 🇺🇸 (FL), 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+- **Keep traveling around the world**: The more countries, the better.
   
-  > Must-visit destinations: 🇪🇸 (🔜 Camp Now, San Mamés), 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (Liverpool, Manchester), 🇩🇪, 🇫🇮, 🇺🇸 (🔜 NY, CAL), 🇪🇬, 🇮🇹 (Milan, Venecia), 🇳🇴, 🇦🇪, 🇵🇹, 🇫🇷, 🇮🇸, 🇨🇭.
+  > Must-visit destinations: 🇪🇸 (🔜 Camp Now, San Mamés), 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (Liverpool, Manchester), 🇩🇪, 🇫🇮, 🇺🇸 (🔜 NY, CAL), 🇪🇬, 🇮🇹 (Milan, Venecia), 🇳🇴, 🇵🇹, 🇫🇷, 🇮🇸, 🇨🇭.
 
 - **Be happy ✨**: It sounds simple, but the most important thing in life.
 
+  </details>
 </details>
 
 <!--
